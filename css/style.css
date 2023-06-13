@@ -15,7 +15,6 @@ p {
 
 img {
     display: block;
-    max-width: 100%;
     height: auto;
     width: 100%;
 }
@@ -120,7 +119,7 @@ ul {
     font-size: 32px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     text-align: justify
 }
 
