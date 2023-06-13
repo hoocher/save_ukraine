@@ -55,6 +55,7 @@ ul {
 .header-img {
     height: 100px;
     min-width: 100%;
+    object-fit: fill;
 }
 
 .resque-link {
@@ -93,6 +94,8 @@ ul {
     border-radius: 0;
     color: black;
     font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -121,9 +124,8 @@ ul {
     font-weight: 700;
     font-size: 31px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.001em;
     margin-bottom: 20px;
-    /* text-align: justify; */
 }
 
 .hero-text {
