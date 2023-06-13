@@ -1,5 +1,5 @@
 body {
-    background-color: #e6e8e6;
+
     font-family: 'Roboto', sans-serif;
 }
 
@@ -75,8 +75,8 @@ ul {
 }
 
 .header {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 /* ! Collapsoble */
@@ -112,7 +112,7 @@ ul {
 }
 
 .hero-section {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .hero-title {
@@ -132,7 +132,7 @@ ul {
 }
 
 .coll-section {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .support-text {
@@ -149,5 +149,5 @@ ul {
     font-size: 24px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
