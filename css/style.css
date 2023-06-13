@@ -184,3 +184,7 @@ ul {
     letter-spacing: 0.001em;
     text-align: center;
 }
+
+.footer-container {
+    padding-bottom: 10px;
+}
