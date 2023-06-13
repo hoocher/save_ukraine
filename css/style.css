@@ -3,6 +3,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+p {
+    text-indent: 12px;
+}
+
 h1,
 h2,
 h3,
@@ -11,6 +15,7 @@ h5,
 h6,
 p {
     margin: 0;
+    text-indent: 12px;
 }
 
 img {
@@ -54,8 +59,7 @@ ul {
 
 .header-img {
     height: 100px;
-    min-width: 100%;
-    object-fit: fill;
+    width: 100%;
 }
 
 .resque-link {
@@ -76,8 +80,12 @@ ul {
 }
 
 .header {
-    padding-top: 40px;
+    width: 100%;
     padding-bottom: 40px;
+}
+
+.header-container {
+    width: 100%;
 }
 
 /* ! Collapsoble */
@@ -122,7 +130,7 @@ ul {
 
 .hero-title {
     font-weight: 700;
-    font-size: 31px;
+    font-size: 30px;
     line-height: 1.5;
     letter-spacing: 0.001em;
     margin-bottom: 20px;
@@ -154,4 +162,5 @@ ul {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 20px;
+    text-align: justify;
 }
