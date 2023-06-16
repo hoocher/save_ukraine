@@ -186,5 +186,10 @@ ul {
 }
 
 .footer-container {
-    padding-bottom: 10px;
+    padding-bottom: 40px;
+}
+
+.adress-link {
+    color: black;
+    font-weight: 800;
 }
