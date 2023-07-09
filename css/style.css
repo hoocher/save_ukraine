@@ -141,12 +141,13 @@ ul {
 }
 
 .hero-title {
-    font-weight: 700;
+    text-align: center;
+    font-weight: 800;
     font-size: 30px;
     line-height: 1.5;
     letter-spacing: 0.001em;
     margin-bottom: 20px;
-    text-align: center;
+
 }
 
 .hero-text {
